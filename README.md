@@ -3,7 +3,7 @@
 **I'm Marc (alias Tyrex074), a student in bachelor degree in game dev** 😯  
 **My favorite langage is C++.** 😎  
 
-[![](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)](https://skillicons.dev)  
+[![](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev) 
 </br>
 But I'm able to use C/C#/Python/JavaScript  
 [![](https://skillicons.dev/icons?i=c,cs,js,py&theme=dark)](https://skillicons.dev) 
