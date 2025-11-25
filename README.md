@@ -2,6 +2,7 @@
 
 **I'm Marc (alias Tyrex074), a student in bachelor degree in game dev** 😯  
 **My favorite langage is C++**, but I'm able to use C/C#/Python/JavaScript 😎  
+</br>
 [![](https://skillicons.dev/icons?i=cpp,c,cs,js,py&theme=dark)](https://skillicons.dev) 
 </br>
 
