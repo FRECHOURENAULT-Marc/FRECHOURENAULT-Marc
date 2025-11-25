@@ -13,7 +13,7 @@ I'm looking for an **internship** starts around may 2026 🔎
 
 ## My Work
 You can find some of my students works in **my public repo** (archives) 📚  
-[![Public repositories]()](https://github.com/FRECHOURENAULT-Marc?tab=repositories)  
 *like 2D and 3D games and other stuff*  
+[![Public repositories]()](https://github.com/FRECHOURENAULT-Marc?tab=repositories)  
 
 *I also work on personnal project, maybe here in some way* 👀  
