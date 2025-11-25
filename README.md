@@ -1,14 +1,14 @@
 ## Hi there ^^
 
-I'm Marc (alias Tyrex074), a student in bachelor degree in game dev 😯
-My favorite langage is C++, but I'm able to use C/C#/Python/JavaScript 😎
+I'm Marc (alias Tyrex074), a student in bachelor degree in game dev 😯  
+My favorite langage is C++, but I'm able to use C/C#/Python/JavaScript 😎  
 
-I'm currently working to acheive my second studing year 🔨
-I'm looking for an internship starts around may 2026 🔎
+I'm currently working to acheive my second studing year 🔨  
+I'm looking for an internship starts around may 2026 🔎  
 
-You can find some of my students works in my public repo (archives) 📚
+You can find some of my students works in my public repo (archives) 📚  
 
-*I also work on personnal project, maybe here in some way* 👀
+*I also work on personnal project, maybe here in some way* 👀  
 
 <!--
 **FRECHOURENAULT-Marc/FRECHOURENAULT-Marc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
