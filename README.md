@@ -7,12 +7,15 @@
 But I'm able to use C/C#/Python/JavaScript  
 [![My Skills](https://skillicons.dev/icons?i=c,cs,js,py&theme=dark)](https://skillicons.dev) 
 </br>
-# 🔨 
-**I'm currently working to acheive my second studing year** 
-I'm looking for an internship starts around may 2026 🔎  
 
+## Me actually 
+I'm currently working to acheive my **second studing year**  
+I'm looking for an **internship** starts around may 2026 🔎  
+</br>
+
+## My Work
 [![Public repositories]()](https://github.com/FRECHOURENAULT-Marc?tab=repositories)  
-You can find some of my students works in my public repo (archives) 📚  
+You can find some of my students works in **my public repo** (archives) 📚  
 *like 2D and 3D games and other stuff*  
 
 *I also work on personnal project, maybe here in some way* 👀  
