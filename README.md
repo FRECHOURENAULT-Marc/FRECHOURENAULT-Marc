@@ -9,7 +9,7 @@
 ## Me actually 
 I'm currently working to acheive my **second studing year**  
 I'm looking for an **internship** starts around may 2026 🔎  
-[![Portfolio]()](https://www.canva.com/design/DAGbJOCk-f0/brftt-qSRiWbmRvms8FiGg/view?utm_content=DAGbJOCk-f0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3cd6080424)  
+[![Portfolio]()](https://frechourenault-marc.github.io/)  
 
 ## My Work
 You can find some of my students works in **my public repo** (archives) 📚  
