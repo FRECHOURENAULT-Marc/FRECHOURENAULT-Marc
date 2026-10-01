@@ -7,7 +7,7 @@
 </br>
 
 ## Me actually 
-I'm currently working to acheive my **second studing year**  
+I'm currently working to acheive my **third studing year**  
 I'm looking for an **internship** starts around may 2026 🔎  
 [![Portfolio]()](https://frechourenault-marc.github.io/)  
 
